@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>dimeng.github.io</id>
+    <title>缔梦笔记</title>
+    <updated>2022-04-14T02:58:26.653Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="dimeng.github.io"/>
+    <link rel="self" href="dimeng.github.io/atom.xml"/>
+    <rights>All rights reserved 2022, 缔梦笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://dimeng.github.io/ce-shi</id>
+        <link href="https://dimeng.github.io/ce-shi"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[测试
+]]></summary>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
+</feed>
